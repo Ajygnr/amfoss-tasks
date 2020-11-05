@@ -1,1 +1,1 @@
-
+In this task, I've tried to figure out common syntax errors which include absence of semicolon, mismatching import dependencies as comments and tried to execute the program periodically and figure out the calculations bugs involved!  
